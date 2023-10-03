@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>boostrap course</title>
+    <link rel="stylesheet" href="./asserts/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./asserts/css/style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+     <header class="header">
+        <a href="#" class="logo">GURU.</a>
+    <nav class="navbar">
+        <a href="#" class="active">HOME</a>
+        <a href="#">ABOUT</a>
+        <a href="#">SETTINGS</a>
+        <a href="#">HELP</a>
+        <a href="#">CONTACT</a>
+        
+    </nav>
+</header>  
+<section class="home" >
+    <div class="home-content">
+        <h1> Hi, I'm  Kumara Guru</h1>
+        <h3>Frontend Developer</h3>
+        <p> I'm a front end developer with five years of experience in web development. I've worked on a variety of projects for clients in the retail, travel, and healthcare industries. I'm passionate about creating great user experiences and have a strong understanding of usability and accessibility standards.</p>
+
+    
+    <div class="btn-box">
+        <a href="#">Hire Me</a>
+        <a href="#">Let's Talk</a>
+    </div>
+    </div>
+    <div class="home-sci">
+        <a href="#"><i class='bx bxl-facebook'></i></a>
+        <a href="#"><i class='bx bxl-twitter' ></i></a>
+        <a href="#"><i class='bx bxl-linkedin' ></i></a>
+    </div>
+    <span class="home-imgHover"></span>
+    
+</section>
+
+
+</body>
+    <script src="./asserts/js/jquery.min.js"></script>
+    <script src="./asserts/js/bootstrap.min.js"></script>
+ 
+</html> 
+
